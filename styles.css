@@ -1,0 +1,24 @@
+body{background-color: #9192AA;
+	margin: 50px;
+	font-family: 'Kanit', sans-serif;}
+h1{color: #FFFB77;margin: 20px auto;
+	width: 400px;
+	text-align: center;
+	font-size: 4em;
+	font-family: 'Poor Story', cursive;
+    /*border: 1px solid #000;*/}
+h2{color: #5E0071;
+	border: 10px solid #FFFB77;
+	background-color: #FF7777;
+	padding: 30px;
+	text-align: center;
+	width: 400px;
+	margin: 0 auto;}
+a{color: #0051FF;
+	text-decoration: none;
+	font-size: 1em}
+a.storylink{color: #7AFF98;
+	font-size: 1.25em;}
+a.restartlink{font-size:  1.50em;
+		color: #001AF3;}
+h4{color: #5B4300;}
